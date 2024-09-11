@@ -1,0 +1,5 @@
+# IGNORE FILES
+
+.idea/
+*.iml
+*.DS_Store
